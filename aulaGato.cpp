@@ -7,7 +7,7 @@ class Gato{
 private:
 	string nome;
 	float peso;
-	int idade;
+	int idade ;
 public:
 	void corre();
 	void come();
